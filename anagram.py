@@ -1,5 +1,5 @@
 s= "anagram"
-t= "nagara"
+t= "nagaram"
 def isAnagram(s,t):
     if len(s)!=len(t):
         return False

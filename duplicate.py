@@ -18,13 +18,13 @@ hashset = set()
 # print(len(list(filter(lambda x: x%2!=0, nums))))
 # print(nums)
 
-def is_subset(lst1, lst2):
-    # Your code goes here
-    if lst1 in lst2:
-        return True
-    else:
-        print(False)
+# def is_subset(lst1, lst2):
+#     # Your code goes here
+#     if lst1 in lst2:
+#         return True
+#     else:
+#         print(False)
         
-    pass
-print(is_subset([1, 2, 3],[1,2,3,4,5,6]))
+#     pass
+# print(is_subset([1, 2, 3],[1,2,3,4,5,6]))
 
